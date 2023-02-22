@@ -37,19 +37,24 @@
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/olanrewaju-oladoyin/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/rahulbanerjee99'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://rahul1999.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://portfolio-2022-psi-virid.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/ooolado'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<a href = 'https://linktr.ee/oooladoyin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  
+<a href = 'https://www.linkedin.com/in/olanrewaju-oladoyin/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://twitter.com/engr_orlando_donporosky'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://github.com/ooolado'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 <br>
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/ooolado?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ooolado&count_private=true&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooolado&theme=default" />
+</a>
 
 <h2> My Blog Posts </h2>
 
