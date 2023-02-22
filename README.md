@@ -38,7 +38,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/ooolado99'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/olanrewaju-oladoyin/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/rahulbanerjee99'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://rahul1999.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://portfolio-2022-psi-virid.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/ooolado/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
