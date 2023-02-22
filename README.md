@@ -18,7 +18,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My AWS and DevOps
+- 🔭 I’m currently working on as AWS Solutions Architect and DevOps Engr.
 
 - 🌱 I’m currently learning TypeScript, React, Flask 
 
