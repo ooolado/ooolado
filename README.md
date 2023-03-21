@@ -59,11 +59,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [How to Use Decorators in Python?](https://medium.com/daily-programming-tips/how-to-use-decorators-in-python-7be915e3c098?source=rss-6e3dfc7b6a86------2)
+- [How to Create a Testable CLI using TypeScript?](https://medium.com/daily-programming-tips/how-to-create-a-testable-cli-using-typescript-e374a4166100?source=rss-6e3dfc7b6a86------2)
+- [My Software Development Blogging Journey: A 2022 Retrospective](https://medium.com/plain-simple-software/my-software-development-blogging-journey-a-2022-retrospective-e0b1f440040f?source=rss-6e3dfc7b6a86------2)
+- [10 Mistakes I made as a Newbie Python Developer](https://medium.com/plain-simple-software/10-mistakes-i-made-as-a-newbie-python-developer-5111d880d944?source=rss-6e3dfc7b6a86------2)
+- [How to Send and Receive Data in Flask](https://medium.com/daily-programming-tips/how-to-send-and-receive-data-in-flask-d95aeb5d2cb8?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
